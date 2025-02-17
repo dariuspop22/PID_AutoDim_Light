@@ -49,10 +49,10 @@ This project uses an **ESP8266** and an **LDR (Light Dependent Resistor)** to cr
 ## 🚀 Setup and Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ESP8266_Night_Light.git
+   git clone https://github.com/dariuspop22/PID_AutoDim_Light.git
    cd ESP8266_Night_Light
    ```
-2. Open `ESP8266_Night_Light.ino` in **Arduino IDE**.
+2. Open `PID_AutoDim_Light.ino` in **Arduino IDE**.
 3. Install the required libraries:
    - `PID_v1.h` (via Library Manager)
 4. Connect ESP8266 and upload the code.
@@ -73,7 +73,7 @@ Kd = 0.2;  // Helps stabilize transitions
 ```
 
 ## 📷 Demo and Screenshots
-_Add photos or a GIF of the project in action_
+_Photos and GIF available in folder_
 
 ## 📝 License
 This project is open-source and released under the **MIT License**.
@@ -84,5 +84,5 @@ This project is open-source and released under the **MIT License**.
 - 🌈 RGB LED for color-based brightness feedback
 
 ---
-Made with ❤️ by [Your Name] 🚀
+Made with ❤️ by Pop Darius, Student 🚀
 
